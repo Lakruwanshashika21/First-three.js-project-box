@@ -1,1 +1,1 @@
-# First-three.js-project-box
+# getting-started-with-threejs
